@@ -1,0 +1,6 @@
+type Player @model @auth(rules: [{allow: public}]) {
+  id: ID!
+  name: String
+  status: Boolean
+  time: AWSTime
+}

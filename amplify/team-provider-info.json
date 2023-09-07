@@ -1,0 +1,23 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-laxapp-dev-221826-authRole",
+      "UnauthRoleArn": "arn:aws:iam::885158540860:role/amplify-laxapp-dev-221826-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::885158540860:role/amplify-laxapp-dev-221826-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-laxapp-dev-221826-deployment",
+      "UnauthRoleName": "amplify-laxapp-dev-221826-unauthRole",
+      "StackName": "amplify-laxapp-dev-221826",
+      "StackId": "arn:aws:cloudformation:us-east-1:885158540860:stack/amplify-laxapp-dev-221826/dcca4930-4d24-11ee-b359-0e62783620b5",
+      "AmplifyAppId": "d1y7qg08kjswzo"
+    },
+    "categories": {
+      "auth": {
+        "laxapp": {}
+      },
+      "storage": {
+        "s3laxappstoragebe71b677": {}
+      }
+    }
+  }
+}

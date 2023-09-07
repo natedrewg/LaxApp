@@ -1,0 +1,11 @@
+{
+  "resourceName": "s3laxappstoragebe71b677",
+  "bucketName": "laxapp-storage-be71b677",
+  "policyUUID": "6b4f195f",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "READ",
+    "CREATE_AND_UPDATE"
+  ]
+}
